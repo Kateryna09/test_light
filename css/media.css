@@ -8,8 +8,8 @@
 
 }
 @media only screen and (max-width: 420px) {
-    .nav{
-        display: none; !important;
+    nav{
+        display: none;
     }
     .d-flex{
         display: block;
@@ -19,6 +19,24 @@
     }
     .owl-nav .owl-next{
         right: 0px;
+    }
+    .container{
+        text-align: center;
+    }
+    .management{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .management .item{
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .item h3{
+        margin-bottom: 10px;
+    }
+    .about{
+        padding-right: 15px;
+        padding-left: 15px;
     }
 }
 @media only screen and (max-width: 375px){
