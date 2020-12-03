@@ -9,7 +9,7 @@
 }
 @media only screen and (max-width: 420px) {
     .nav{
-        display: none;
+        display: none; !important;
     }
     .d-flex{
         display: block;
