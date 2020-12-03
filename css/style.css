@@ -46,6 +46,7 @@ header .container.d-flex{
     justify-content: space-between;
     align-items: start;
 }
+
 header nav ul{
     list-style: none;
 }
@@ -153,14 +154,6 @@ h2:after{
     font-family: 'Goldman', cursive;
 }
 
-width: 28px;
-height: 28px;
-border: solid 1px #6c7077;
-border-radius:50%;
-text-align: center;
-line-height: 25px;
-transition: 0.3s;
-
 .footer_border .soc a i{
     color: #6c7077;
     font-size: 12px;
@@ -182,7 +175,6 @@ transition: 0.3s;
 }
 .carusel h2{
    font: 19px/19px 'Raleway';
-    color: #24282f;
     color: #000000;
     padding-bottom: 22px;
     font-weight: bold;
